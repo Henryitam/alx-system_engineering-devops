@@ -1,1 +1,1 @@
-the john doe script
+the 10 mirror permission
