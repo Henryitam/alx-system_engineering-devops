@@ -1,2 +1,1 @@
-the james bond script
- the james bond
+the john doe script
