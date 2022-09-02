@@ -1,1 +1,1 @@
-the 10 mirror permission
+ the 11 directory permit
