@@ -1,1 +1,1 @@
-the move that file
+ the symbolic link
