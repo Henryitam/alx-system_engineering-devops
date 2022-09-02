@@ -1,1 +1,1 @@
-the symbolic link
+ the html copy
