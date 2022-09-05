@@ -1,1 +1,1 @@
-a script that print "hellp world" 
+the confused smiley
