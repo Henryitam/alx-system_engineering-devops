@@ -1,1 +1,1 @@
-the last line of a file
+display the fist five lines
