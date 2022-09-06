@@ -1,1 +1,1 @@
-what is next
+hiding a word
