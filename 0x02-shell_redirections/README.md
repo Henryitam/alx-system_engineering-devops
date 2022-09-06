@@ -1,1 +1,1 @@
-making your directory count
+a command that finds all empty files and directories
